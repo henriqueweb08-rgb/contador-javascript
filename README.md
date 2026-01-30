@@ -16,5 +16,5 @@ Projeto básico de um contador desenvolvido com HTML, CSS e JavaScript puro.
 Projeto criado para praticar lógica básica de programação, eventos e manipulação do DOM
 utilizando JavaScript.
 
-## 🔗 Demo
-(Adicionar link do GitHub Pages)
+## 🔗 Demo Online: https://henriqueweb08-rgb.github.io/contador-javascript/
+ 
